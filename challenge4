@@ -1,0 +1,35 @@
+On the chat, talking to Antoine Rossignol, we get 3 files : 
+- archive_chiffree
+- layout.pdf
+- compte_rendu_eve.pdf
+
+layout.pdf seems to be a pdf file with a password protection
+compte_rendu.pdf give us the details of "Eve".
+
+First attempt : email 
+
+DESCARTES, Eve
+12:50 (il y a 28 minutes)
+À moi
+
+Je suis actuellement indisponible.
+Pour tout problème même minuscule, n'hésitez pas à me contacter par téléphone.
+
+
+
+--
+Eve Descartes
+Ingénieur de Recherche Salle Blanche
+Service pour la Microélectronique et les Microsystèmes (S.M.M.)
+Tél. : +33 (0)1 45 92 60 96
+2 boulevard Blaise Pascal - BP 99
+93162 Noisy-le-Grand CEDEX • FRANCE
+www.esiee.fr • www.univ-gustave-eiffel.fr
+
+ESIEE ParisMembre fondateur Université Gustave EiffelUne école de la Chambre de Commerce et d'Industrie Paris Île-de-France
+
+
+2nd attempt : Phone call
+We get an audio file with a morse encoded value saying : "resistance"
+
+That open the pdf file layout.pdf
